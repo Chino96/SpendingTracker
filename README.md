@@ -2,7 +2,7 @@
 
 ## Summary:
 A new Flutter application for monitoring my spending habbits. 
-Using a RESTful API in Flask and a python script to parse emails.
+Using a RESTful API [Script](https://github.com/Chino96/SpendingTracker/blob/master/lib/src/scripts/Flask_Script.py) in Flask and a python [Script](https://github.com/Chino96/SpendingTracker/blob/master/lib/src/scripts/Email_Parser.py) to parse emails.
 Data is served in JSON format through a Google Virtual Machine
 instance. The JSON data is then retrived by this application 
 and displayed graphically.
