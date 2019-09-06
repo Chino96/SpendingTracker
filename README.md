@@ -1,16 +1,7 @@
-# spending_app
+# Spending Tracker
 
-A new Flutter application for monitoring my spending habbits.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A new Flutter application for monitoring my spending habbits. 
+Using a RESTful API in Flask and a python script to parse emails.
+Data is served in JSON format through a Google Virtual Machine
+instance. The JSON data is then retrived by this application 
+and displayed graphically.
