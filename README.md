@@ -8,7 +8,7 @@ instance. The JSON data is then retrived by this application
 and displayed graphically.
 
 # Demo
-![Demo Gif]()
+![Demo Gif](https://github.com/Chino96/SpendingTracker/blob/master/assets/Demo.gif)
 
 # Languages and Frameworks
 Flutter v1.7.8<br />
